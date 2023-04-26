@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Behind the scenes: 3D Vim animation"
 date: 2021-05-28 20:26 -0500
 ---

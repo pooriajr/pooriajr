@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Code is comfortable
 date: 2021-05-11 18:15 -0500
 ---

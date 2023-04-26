@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What really matters?
 date: 2021-07-08 14:27 -0500
 ---

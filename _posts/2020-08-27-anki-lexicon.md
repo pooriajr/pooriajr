@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Anki Lexicon
+layout: single
 ---
 
 I'm experimenting with a different way of using Anki.

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Unexpected benefits of a vegan diet
 date: 2021-05-14 19:52 -0500
 ---

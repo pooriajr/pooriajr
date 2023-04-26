@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Patience and Permanence
 date: 2021-05-20 18:39 -0500
 ---

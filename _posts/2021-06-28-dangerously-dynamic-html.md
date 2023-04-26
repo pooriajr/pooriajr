@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Dangerously dynamic HTML
 date: 2021-06-28 20:47 -0500
 ---

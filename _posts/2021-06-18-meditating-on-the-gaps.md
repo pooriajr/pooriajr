@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Meditating on the gaps
 date: 2021-06-18 19:28 -0500
 ---

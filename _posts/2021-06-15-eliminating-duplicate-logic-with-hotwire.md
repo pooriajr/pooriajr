@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Eliminating duplicate logic with Hotwire
 date: 2021-06-15 23:55 -0500
 ---

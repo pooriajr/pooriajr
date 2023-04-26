@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Why bother with a VPS?
 date: 2022-12-16 17:12 -0500
 ---
 
-Doing it yourself is so more time consuming and error-prone than just running `git push heroku`, so why even bother?
+Doing it yourself is so much more time consuming and error-prone than just running `git push heroku`, so why even bother?
 
 ### Save tons of money 🤑
 The main benefit. The idea is that a little upfront investment of time is going to save you BIG BUCKS over the course of a long career making many web projects. 

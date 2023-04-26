@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Is vim worth it?
 date: 2021-05-05 10:12 -0500
 ---

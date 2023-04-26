@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Anti-multi-tasking
 date: 2021-07-09 10:02 -0500
 ---

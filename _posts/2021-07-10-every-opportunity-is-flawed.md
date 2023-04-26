@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Every opportunity is flawed
 date: 2021-07-10 13:31 -0500
 ---

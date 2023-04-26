@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A web app as a single HTML file
 date: 2021-07-15 17:04 -0500
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Back to Writing
 date: 2021-05-04 13:58 -0500
 ---

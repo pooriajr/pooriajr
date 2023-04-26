@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Minimal vim folds
 date: 2021-07-05 15:00 -0500
 ---

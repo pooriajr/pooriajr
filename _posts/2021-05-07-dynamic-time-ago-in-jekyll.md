@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Dynamic "Time Ago" in Jekyll'
 date: 2021-05-07 15:46 -0500
 slug: dynamic-time-ago-in-jekyll

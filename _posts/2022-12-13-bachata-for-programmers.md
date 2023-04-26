@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bachata for programmers
 date: 2022-12-13 18:20 -0500
 ---

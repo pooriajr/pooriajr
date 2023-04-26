@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Every airport has a secret haven for kids
 date: 2021-05-24 12:01 -0500
 ---
