@@ -133,8 +133,6 @@ And here's the *real* final result:
 
 I spent an unreasonable amount of time on this, but the result feels worth it.
 
-If you enjoyed this, shoot me an email at [pooria@hey.com]({{site.email}}). I only have a couple regular readers (Hi, Mom! 👋) so every little message means a lot!
-
 Thanks for reading! 
 
 `:wq`

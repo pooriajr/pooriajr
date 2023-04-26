@@ -20,7 +20,7 @@ Raise your hand if you've got tons of old side projects which can't be accessed 
 
 With a VPS, you're in control of your own webserver, which means you can use subdomains to keep a project online with a nice address, without paying yearly domain fees.
 
-For example, my personal site is "pooriar.com", and as long as I keep paying for this ONE domain, I can host infinite side projects on its subdomains, like so: "myproject.pooriar.com", "myotherproject.pooriar.com", etc
+For example, my personal site is "kianpak.com", and as long as I keep paying for this ONE domain, I can host infinite side projects on its subdomains, like so: "myproject.kianpak.com", "myotherproject.kianpak.com", etc
 
 And if that sounds strange or complicated, nah, it's stupid easy and simple when you configure your own webserver.
 

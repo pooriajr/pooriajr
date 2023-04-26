@@ -5,7 +5,7 @@ date: 2021-05-05 10:12 -0500
 
 TL;DR No, not really.
 
-I like vim. I use vim. I have customized the pants off of vim. There's nothing on this earth, short of my own skin, that is more molded to me, Pooria Rashidi, than my vim config.
+I like vim. I use vim. I have customized the pants off of vim. There's nothing on this earth, short of my own skin, that is more molded to me than my vim config.
 
 And that's the problem.
 
