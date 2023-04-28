@@ -9,19 +9,6 @@ sidebar:
     text: "Full Stack Web Developer"
   - title: "Technologies Used"
     text: "Ruby on Rails, StimulusJS, StimulusReflex, TailwindCSS, GreenSock"
-gallery:
-  - url: /assets/images/hand-demo.gif
-    image_path: /assets/images/hand-demo.gif
-    alt: "picasso"
-  - url: /assets/images/klimt.jpeg
-    image_path: /assets/images/klimt.jpeg
-    alt: "klimt"
-  - url: /assets/images/davinci.jpeg
-    image_path: /assets/images/davinci.jpeg
-    alt: "davinci"
-  - url: /assets/images/vangogh.jpeg
-    image_path: /assets/images/vangogh.jpeg
-    alt: "vangogh"
 ---
 
 They contracted me to help build gamification features.
