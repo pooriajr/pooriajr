@@ -19,5 +19,9 @@ Here is a video of one such feature, a "hand" concept, like you'd find in a card
 
 ![hand-demo](/assets/images/hand-demo.gif)
 
+Here is another feature that let you burn cards to convert them into coins, one of RCRDSHP's tokens. Holding down the fire makes it grow, but you can let it go to interrupt the burn.
+
+![burn-demo](/assets/images/burn-demo.gif)
+
 
 
