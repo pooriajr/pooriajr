@@ -24,9 +24,6 @@ gallery:
   - url: /assets/images/vangogh.jpeg
     image_path: /assets/images/vangogh.jpeg
     alt: "vangogh"
-
-
-
 ---
 
 My mom wanted to see herself in the style of her favorite artist (Gustav Klimt), but didn't get the whole "prompting" thing. Built this Stable Diffusion wrapper to make it easy for her. Uses [Astria](https://www.astria.ai/) API for fine tuning.
