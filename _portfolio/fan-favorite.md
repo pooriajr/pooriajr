@@ -7,7 +7,7 @@ header:
 sidebar:
   - title: "Built with"
     image: /assets/images/Ruby_On_Rails_Logo.svg
-    image_alt: "logo"
+    image_alt: "ruby on rails logo"
     text: "Ruby on Rails"
   - title: "Results"
     text: "Launched, then discontinued due to low usage"
