@@ -13,6 +13,8 @@ sidebar:
     text: "I don't bite my nails as much while on the computer."
 ---
 
+[Get Hands Down](https://handsdown.kianpak.com)
+
 Hands Down is a macOS app that uses your webcam and computer vision to catch you biting your nails. 
 
 When it detects your fingers in your mouth, it throws up a message to stop you in the act.
