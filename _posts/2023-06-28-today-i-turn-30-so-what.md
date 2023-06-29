@@ -3,7 +3,7 @@ title: Today I turn 30. So what?
 date: 2023-06-28 22:05 -0500
 ---
 
-Assigning importance to your 20s or 30s is like a new-years resolution. If you are putting your faith in an arbitrary date range, don't expect much.
+Assigning importance to your 20s or 30s is like a new-years resolution. You are putting too much faith in an arbitrary date range.
 
 But still, I can't help it. My 20s are over. Forever. F o r e v e r.
 
