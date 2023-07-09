@@ -1,3 +1,5 @@
+const defaultTheme = require('tailwindcss/defaultTheme')
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -5,8 +7,21 @@ module.exports = {
     './frontend/javascript/**/*.js',
   ],
   theme: {
-    extend: {},
+    fontFamily: {
+      sans: ['Rubik', ...defaultTheme.fontFamily.sans],
+    },
+    extend: {
+      colors: {
+        'accent': '#ffff02',
+        'accent-light': '#ffff80',
+      },
+      borderWidth: {
+        '3': '3px'
+      }
+    }
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
 }
 
