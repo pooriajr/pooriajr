@@ -1,15 +1,10 @@
 <!doctype html>
 <html lang="{{ site.locale }}">
-  <head>
-    {% render "head", metadata: site.metadata, title: data.title %}
-  </head>
-  <body class="{{ data.layout }} {{ data.page_class }}">
-    {% render "navbar", metadata: site.metadata, resource: resource %}
+  <head>{% render "head", metadata: site.metadata, title: data.title %}</head>
 
-    <main>
-      {{ content }}
-    </main>
-
-    {% render "footer", metadata: site.metadata %}
+  <body class="max-w-7xl mx-auto py-4 px-2 md:px-4 lg:px-6 space-y-6">
+    {% render "navbar" %}
+    <main>{{ content }}</main>
+    {% render "footer" %}
   </body>
 </html>
