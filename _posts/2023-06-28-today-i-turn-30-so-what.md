@@ -13,7 +13,7 @@ Naturally, I don't really feel any different today. I still feel young and invin
 
 But arbitrary rituals and meaning are pretty much all human culture *is*, so I'll make a little fuss today on my 30th birthday.
 
-# Is it gonna get boring now?
+## Is it gonna get boring now?
 
 My 20s felt like an abundant decade. I did so many things! I can't relate when people say their youth passed by in the blink of an eye. My 20s felt **long**, in a good way, because so many interesting things happened.
 
@@ -33,7 +33,7 @@ Luckily, during my adventures, I met numerous men in their 40s, 50s, even 60s, w
 
 Meeting them lets me go secure in the knowledge that it can be done.
 
-# Novelty is getting old
+## Novelty is getting old
 
 I spent my 20s chasing novel experiences. New travel destinations. New cultures. New foods. New adventures. New women. New skills. New creative pursuits. 
 
@@ -45,7 +45,7 @@ Novelty is still exciting. But I find myself less and less inclined to throw eve
 
 Instead, I find myself more interested in deepening my relationship with what I already "have".
 
-# Stop being a student
+## Stop being a student
 "You're always a student of life."
 
 I've embraced this philosophy in the past. It's comforting. Being a student is fun. There's not much responsibility. If you fail, it's ok - you're just a student. 

@@ -1,0 +1,53 @@
+---
+---
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-primary {
+    @apply inline-block py-2 px-4 border transition bg-accent pressable cursor-pointer hard-shadow;
+  }
+  .btn-secondary {
+    @apply inline-block py-2 px-4 border transition bg-white pressable cursor-pointer hard-shadow;
+  }
+  .btn-disabled {
+    @apply inline-block py-2 px-4 border !border-neutral-400 text-neutral-400 cursor-not-allowed;
+  }
+}
+
+.hard-shadow {
+  box-shadow: 4px 4px 0px #000000;
+}
+
+.pressable:hover {
+  @apply hover:-translate-x-[1px] hover:-translate-y-[1px]; 
+  box-shadow: 5px 5px 0px #000000;
+}
+
+.pressable:active {
+  @apply hover:translate-x-[2px] hover:translate-y-[2px]; 
+  box-shadow: 2px 2px 0px #000000;
+}
+
+.border {
+  @apply border-3 border-black;
+}
+
+.linky {
+  @apply text-sky-700 underline;
+}
+
+input, input[type], select, textarea {
+  @apply border-3 border-black
+}
+
+.dark-emoji {
+  @apply grayscale contrast-200 brightness-75
+}
+
+.darker-emoji {
+  @apply grayscale contrast-[300%] brightness-[66%]
+}
+

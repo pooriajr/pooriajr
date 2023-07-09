@@ -1,0 +1,27 @@
+---
+layout: default
+title: "Home"
+---
+
+<h2 class="text-2xl mt-8 mb-3">Projects</h2>
+<div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+{% for project in site.projects %}
+<a href="{{ project.url }}" class="block btn-secondary p-2">
+  <div class="aspect-video bg-cover bg-center" style="background-image:url({{project.header.teaser}})"></div>
+  <h3 class="text-xl mt-2"> {{ project.title }} </h3>
+  <p class="text-sm"> {{ project.excerpt }} </p>
+</a>
+{% endfor %}
+</div>
+
+<h2 class="text-2xl mt-10 mb-3">Writing</h2>
+<div class="flex flex-col sm:flex-wrap sm:flex-row gap-4">
+  {% for post in site.posts %}
+  <a href="{{ post.url }}" class="btn-secondary px-4 p-2">
+    <article>
+      <span class="text-xl"> {{ post.title }} </span>
+      <span class="text-xs">{{ post.date | date: '%D' }}</span>
+    </article>
+  </a>
+  {% endfor %}
+</div>

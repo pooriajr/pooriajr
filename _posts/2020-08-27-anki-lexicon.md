@@ -1,5 +1,4 @@
 ---
-layout: single
 ---
 
 I'm experimenting with a different way of using Anki.
