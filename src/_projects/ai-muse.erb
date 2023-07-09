@@ -1,0 +1,20 @@
+---
+title: "Ai Muse"
+excerpt: "Transform yourself into masterpieces painted by the great artists."
+teaser: /images/ai-muse-teaser.png
+---
+
+<img src="/images/ai-muse-banner.png" alt="">
+
+<p>
+My mom wanted to see herself in the style of her favorite artist (Gustav Klimt), but didn't get the whole "prompting" thing. Built this Stable Diffusion wrapper to make it easy for her. Uses <%= link_to "Astria", "https://www.astria.ai/" %> API for fine tuning.
+</p>
+
+<%= render "gallery", images: [
+  "/images/picasso.jpeg",
+  "/images/klimt.jpeg",
+  "/images/davinci.jpeg",
+  "/images/vangogh.jpeg"
+] %>
+
+
