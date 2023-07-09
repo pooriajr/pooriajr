@@ -1,6 +1,6 @@
 ---
 title: Today I turn 30. So what?
-date: 2023-06-28 22:05 -0500
+date: 2023-06-17 22:05 -0500
 ---
 
 Assigning importance to your 20s or 30s is like a new-years resolution. You are putting too much faith in an arbitrary date range.

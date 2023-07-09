@@ -21,11 +21,11 @@ Here's an interactive version of the model. You can spin it around!
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
-<div class="resp-container">
+<div class="w-full">
 <model-viewer
-    class="resp-iframe"
-    src="/assets/models/vim.glb"
-    poster="/assets/models/vim-poster.png"
+    class="h-[360px]"
+    src="/models/vim.glb"
+    poster="/models/vim-poster.png"
     disable-zoom
     camera-controls
     auto-rotate-delay='0'
