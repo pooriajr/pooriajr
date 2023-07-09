@@ -1,12 +1,7 @@
 ---
 title: "mobile-first.css"
 excerpt: "A tiny stylesheet to help you keep mobile in mind."
-header:
-  image: /assets/images/mobile-first-wide.png
-  teaser: /assets/images/mobile-first-wide.png
-sidebar:
-  - title: "Built with"
-    text: "CSS"
+teaser: /images/mobile-first-wide.png
 ---
 
 mobile-first.css is a tiny stylesheet to help you keep mobile in mind while building on desktop.
@@ -17,7 +12,7 @@ You just finished building something and it looks great on your computer. Then y
 ## Usage
 Paste this tag in the <head> element of the page:
 
-```
+```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/pooriar/mobile-first/mobile-first.min.css">
 ```
 

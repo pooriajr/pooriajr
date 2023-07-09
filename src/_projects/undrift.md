@@ -1,10 +1,10 @@
 ---
 title: "Undrift"
 excerpt: "Don't let the people who matter drift away."
-teaser: /assets/images/undrift-teaser.png
+teaser: /images/undrift-teaser.png
 ---
 
-![undrift banner](/assets/images/undrift-banner.png)
+![undrift banner](/images/undrift-banner.png)
 
 <div class="not-prose">
   <a href="https://undrift.netlify.app" class="btn-primary text-black">Live Demo</a>
