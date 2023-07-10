@@ -1,3 +1,9 @@
+PATH
+  remote: ../bridgetown_compose
+  specs:
+    bridgetown_compose (0.1.0)
+      bridgetown (>= 1.2.0, < 2.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -115,6 +121,7 @@ PLATFORMS
 
 DEPENDENCIES
   bridgetown (~> 1.2.0)
+  bridgetown_compose!
   puma (~> 6)
 
 BUNDLED WITH
