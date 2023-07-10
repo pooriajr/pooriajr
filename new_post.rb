@@ -1,3 +1,6 @@
+# to use:
+# ruby new_post.rb "Post Title"
+
 require 'time'
 
 title = ARGV[0]

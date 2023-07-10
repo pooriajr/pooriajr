@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<h2 class="text-2xl mt-8 mb-3">Projects</h2>
+<div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+  <% collections.projects.resources.each do |project| %>
+    <a href="<%= project.data.relative_url %>" class="block btn-secondary !p-0">
+      <div class="aspect-video bg-cover bg-center" style="background-image:url(<%= project.data.teaser %>)"></div>
+      <div class="p-2">
+        <h3 class="text-xl mt-2"><%= project.data.title %></h3>
+        <p class="text-sm"><%= project.data.excerpt %></p>
+      </div>
+    </a>
+  <% end %>
+</div>
+
+<h2 class="text-2xl mt-10 mb-3">Writing</h2>
+<div class="flex flex-col sm:flex-wrap sm:flex-row gap-4">
+  <% collections.posts.resources.each do |post| %>
+    <a href="<%= post.relative_url %>" class="btn-secondary px-4 p-2">
+      <article>
+        <span class="text-xl"><%= post.data.title %></span>
+        <span class="text-xs"><%= post.date.strftime "%Y" %></span>
+      </article>
+    </a>
+  <% end %>
+</div>
