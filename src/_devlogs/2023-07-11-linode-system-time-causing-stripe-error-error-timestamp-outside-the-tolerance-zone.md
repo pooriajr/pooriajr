@@ -1,7 +1,6 @@
 ---
 title: "Linode system time causing stripe webhook error 'Error: timestamp outside the tolerance zone'"
 date: 2023-07-11 11:49:26 -0500
-category: gotchas
 ---
 
 I was getting this error on prod, but not local, when trying to handle a webhook from stripe:

@@ -18,10 +18,24 @@ layout: default
 <h2 class="text-2xl mt-10 mb-3">Writing</h2>
 <div class="flex flex-col sm:flex-wrap sm:flex-row gap-4">
   <% collections.posts.resources.each do |post| %>
+    <% next if post.data.categories.include? "devlog" %>
     <a href="<%= post.relative_url %>" class="btn-secondary px-4 p-2">
       <article>
         <span class="text-xl"><%= post.data.title %></span>
         <span class="text-xs"><%= post.date.strftime "%Y" %></span>
+      </article>
+    </a>
+  <% end %>
+</div>
+
+<h2 class="text-2xl mt-10 mb-3">Dev Logs</h2>
+<div class="flex flex-col sm:flex-wrap sm:flex-row gap-4">
+  <% collections.devlogs.resources.each do |devlog| %>
+    <% next if devlog.data.categories.include? "devlog" %>
+    <a href="<%= devlog.relative_url %>" class="linky">
+      <article>
+        <span class=""><%= devlog.data.title %></span>
+        <span class="text-xs"><%= devlog.date.strftime "%Y" %></span>
       </article>
     </a>
   <% end %>

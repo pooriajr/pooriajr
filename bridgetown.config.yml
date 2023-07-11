@@ -26,6 +26,8 @@ collections:
   projects:
     output: true
     permalink: simple
+  devlogs:
+    output: true
 
 # Other options you might want to investigate:
 #
