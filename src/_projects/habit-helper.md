@@ -1,6 +1,6 @@
 ---
 title: "HabitHelper"
-excerpt: "Gamified habit tracking tracking in a calendar."
+excerpt: "Gamified habit tracking in a calendar."
 teaser: /images/habit-helper-banner.png
 ---
 
