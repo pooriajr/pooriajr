@@ -8,7 +8,7 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      sans: ['Rubik', ...defaultTheme.fontFamily.sans],
+      sans: ['Rubik', '"Source Sans 3"', ...defaultTheme.fontFamily.sans],
     },
     extend: {
       colors: {

@@ -1,7 +1,6 @@
 ---
 title: "From art-school dropout to 12k/month world traveler"
 date: 2023-07-29 09:01:12 -0500
-draft: true
 ---
 
 I have no right to brag.
@@ -39,9 +38,9 @@ But I was sick of classes. Tired of busy work. I coudn't see myself starting ove
 
 There was only one option. I'd drop out, and become a _freelance graphic designer_.
 
-## How not to be a freelance graphic designer 
+## How to make nothing and influence no-one
 
-The same day I dropped out, I found my first freelance gig on Craigslist. $30/hour, and it was an exciting new business. Things were looking good!
+The same day I dropped out, I found my first freelance gig on Craigslist. $30/hour, and it was an exciting new startup. Things were looking good!
 
 The first project was small, but I obessed over it. I wanted it to be perfect. 6 hours later, I proudly sent my client the designs.
 
@@ -59,33 +58,31 @@ I tried for months, but I couldn't get enough clients.
 
 ## A job is good too
 
-I gave up on freelancing and got hired at an 8 man startup. $15/hour making infographics for their blog.
+Accepting defeat, I got a job. It was a little 8 person startup. They paid me $15/hour to make infographics for their blog.
 
-It wasn't what I'd wanted, but it was what I needed.
+It wasn't what I'd wanted, but it turned out to be what I needed.
 
-It was full-time and consistent. My expenses were low, so I suddenly found myself, for the first time, making more than I was spending.
-
-It also gave me a sense of purpose and worth. I had my own desk with my own computer. Because it was such a small team, I felt like my work actually mattered. I felt confident for the first time since I'd dropped out. 
+It gave me a sense of purpose and worth. I had my own desk with my own computer. Because it was such a small team, I felt like my work actually mattered. And the pay was more than enough to support myself. I felt confident for the first time since I'd dropped out. 
 
 Maybe everything would be ok after all.
 
 ## The bribe that changed everything
 
-A few months in, my boss came to ask me something. He was trying to hire a web designer, but couldn't find anyone good. He asked me if I'd be interested. I'd have to start studying it in my free time.
+A few months in, my boss came knocking. He had been trying to hire a web designer, but couldn't find anyone. He asked me if I'd be interested in moving into that role. I'd have to start studying it in my free time.
 
 No thanks. Not interested.
 
-I was an artist, not a coder. I had peeked over my roommate's shoulder while he did computer science homework. One look at that awful wall of text was all I needed to confidently declare: No way, this is not for me.
+I was an artist, not a _coder_. I had peeked over my roommate's shoulder while he did computer science homework. One look at that horrible wall of text was enough for me. No way, I could never do that.
 
 A few weeks later, boss came back.
 
-"We really need help with this. Can you pause the design work for the next 2 weeks and just watch tutorials? We'll pay you like normal."
+"We really need help with this. Can you pause the design work for the next 2 weeks and just go through this beginner video course? We'll pay you like normal."
 
 I was being bribed to sit in my chair for 2 weeks and watch videos all day. Even I wasn't stubborn enough to turn that down.
 
-Day 1, HTML basics, I was surprised that I actually could understand it
-Day 2, CSS basics, I got to be creative, it was like design
-Day 3, started learning JavaScript, and...
+- Day 1, HTML basics, I was surprised that I actually could understand it
+- Day 2, CSS basics, oh, this is kinda like graphic design...
+- Day 3, started learning JavaScript, wow, this is...
 
 Wait a second...
 
@@ -111,7 +108,7 @@ Until they laid me off.
 
 [^frugal]: I shared a 2 bedroom apartment with 2 students. We each payed $300/month. Food was another $300/month. Car payments were $250/month, and it was an old car so insurance was cheap. This was 2014, inflation's a bitch huh?
 
-## Aight I'm out
+## Aight Imma Head Out
 
 It came out of nowhere. 
 
@@ -158,15 +155,16 @@ And got rejected. A lot.
 
 It was demoralizing. What if my years of carefree adventure really had made me unemployable?
 
-After 3 months of rejections, I was in Discord complaining to a guy I'd just met called LB. He gave me a tip:
+After 3 months of rejections, I was in Discord whining about my latest failed interview to a guy I'd just met called LB
 
-LB: My sense is that you should reach out to TT and see if they're hiring
+> 
+> LB: My sense is that you should reach out to TT and see if they're hiring
+> 
+> Me: Thanks for the tip! But it looks like they want someone very senior, 10 years of experience. I have 5 😕
+>
+> LB: Again, I'd ping them. You miss every shot you don't take.
 
-Me: Thanks for the tip! But it looks like they want someone very senior, 10 years of experience. I have 5 😕
-
-LB: Again, I'd ping them. You miss every shot you don't take.
-
-Little did I know at the time, LB's little push would change my life.
+I didn't realize at the time that LB's little push would change my life.
 
 ## Getting my dream job
 

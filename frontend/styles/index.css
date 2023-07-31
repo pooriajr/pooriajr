@@ -11,6 +11,9 @@
   input, input[type], select, textarea {
     @apply border-3 border-black
   }
+  .prose {
+    font-family: "Source Sans 3"
+  }
 }
 
 @layer components {
