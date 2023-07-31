@@ -1,5 +1,5 @@
 ---
-title: "From art-school dropout to 12k/month world traveler"
+title: "From art-school dropout to $12k/month world traveler"
 date: 2023-07-29 09:01:12 -0500
 ---
 
