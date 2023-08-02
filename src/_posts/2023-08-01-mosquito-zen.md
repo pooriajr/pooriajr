@@ -9,9 +9,9 @@ A harmless nuisance, from a guiltless, insignificant creature.
 
 It demands your attention, yet the more you fixate on it, the more it bothers you.
 
-What could be a more perfect description of many every-day problems we face in life?
+What could be a better analog of the many small every-day problems we face in life?
 
-Here's what your reaction says about you:
+Your reaction reflects your spiritual state:
 
 - **Blood rage**: The mosquito bites you. You go crazy, hell-bent on revenge. When you find the bastard, you hit it so hard you hurt yourself and damage property. You leave the blood stain as a sign to other mosquitoes. You scratch the bite furiously until it bleeds.
 
@@ -35,8 +35,6 @@ Here's what your reaction says about you:
 
 - **Zen**: The mosquito bites you. You smile. You feel love for the mosquito, as it carries out its divine purpose in the river of life. You may scratch the itch, or not, it doesn't matter.
 
-- **Ultra-Zen**: The mosquito bites you. It attains consciousness. You have a chat and become friends.
-
-
+- **Ultra-Zen**: The mosquito bites you. It attains consciousness. You chat over a cup of tea, and become friends.
 
 
