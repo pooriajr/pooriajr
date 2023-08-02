@@ -25,7 +25,7 @@ Here's what your reaction says about you:
 
 - **Dog**: The mosquito bites you. You bite the mosquito back.
 
-- **Change the environment**: The mosquito bites you. You buy mosquito nets, window screens, and enough repellant to choke an elephant, with same-day-delivery on Amazon. 
+- **Change the world**: The mosquito bites you. You buy mosquito nets, window screens, and enough repellant to choke an elephant, with same-day-delivery on Amazon. 
 
 - **Change yourself**: The mosquito bites you. You apply ointment, spray yourself with repellent, and eat a clove of garlic.
 
@@ -33,7 +33,7 @@ Here's what your reaction says about you:
 
 - **Gratitude**: The mosquito bites you. You quickly remind yourself to be grateful to the mosquito for giving you a chance to practice your zen. You resist the urge to scratch and wait for it to pass.
 
-- **Zen**: The mosquito bites you. You smile. You feel love for the mosquito, doing its part in the flow of life. You may scratch the itch, or not, it doesn't matter.
+- **Zen**: The mosquito bites you. You smile. You feel love for the mosquito, as it carries out its divine purpose in the river of life. You may scratch the itch, or not, it doesn't matter.
 
 - **Ultra-Zen**: The mosquito bites you. It attains consciousness. You have a chat and become friends.
 
