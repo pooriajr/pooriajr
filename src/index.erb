@@ -5,7 +5,6 @@ layout: default
 <h2 class="text-2xl mt-8 mb-3">Projects</h2>
 <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
   <% collections.projects.resources.each do |project| %>
-
     <a href="<%= project.data.direct_link || project.relative_url %>" class="block btn-secondary !p-0">
       <div class="aspect-video bg-cover bg-center" style="background-image:url(<%= project.data.teaser %>)"></div>
       <div class="p-2">

@@ -1,7 +1,7 @@
 ---
 title: "Hands Down"
 excerpt: "Use your webcam to stop biting your nails."
-permalink: /projects/hands-down/
+direct_link: https://handsdown.kianpak.com
 teaser: /images/hands-down-teaser.png
 ---
 
