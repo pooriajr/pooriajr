@@ -3,6 +3,8 @@ title: "Hands Down"
 excerpt: "Use your webcam to stop biting your nails."
 direct_link: https://handsdown.kianpak.com
 teaser: /images/hands-down-teaser.png
+model: handsdown.glb
+poster: handsdown.jpg
 featured: true
 year: 2023
 ---
