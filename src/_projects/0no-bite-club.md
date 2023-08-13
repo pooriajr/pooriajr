@@ -1,7 +1,7 @@
 ---
 title: "No Bite Club"
 excerpt: "Find your perfect solution to nailbiting"
-permalink: /projects/no-bite-club/
+direct_link: https://nobite.club
 teaser: /images/nobiteclub.jpg
 ---
 
