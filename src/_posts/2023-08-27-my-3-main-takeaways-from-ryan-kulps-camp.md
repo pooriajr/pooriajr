@@ -53,4 +53,6 @@ It helped me get clarity on some difficulties I've been struggling with - comfor
 
 But even more so, it lit a fire under me where I was feeling too comfortable - afflicting the comfortable.
 
+And I think it's just what I needed.
+
 I'm grateful to everyone involved in these special 2 weeks of Cohort #1 (unofficially Cohort #2 💩). Thank you 🙏
