@@ -6,7 +6,7 @@ date: 2023-08-27 17:13:39 -0400
 # Creatives can be meticulously organized
 For years now I've believed in the meme of the chaotic artist. That in order to be a prolific creative, you have to embrace messiness. That keeping your physical and digital spaces neatly organized is just a feel-good form of procrastination.
 
-Ryan Kulp is undeniably a prolific creative. He's constantly involved in so many projects in so many different creative fields that it makes me head spin. So imagine my surprise when I found out that he's totally the opposite of the chaotic artist meme.
+Ryan Kulp is undeniably a prolific creative. He's constantly involved in so many projects in so many different creative fields that it makes my head spin. So imagine my surprise when I found out that he's totally the opposite of the chaotic artist meme.
 
 He's meticulously organized. As soon as things start getting a little messy in his home or on his laptop, he puts in the effort to get them back in order.
 
