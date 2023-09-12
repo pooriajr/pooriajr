@@ -1,6 +1,6 @@
 ---
 title: "Disqualifying yourself"
-date: 2023-09-12 06:57:18 -0700
+date: 2023-09-12
 ---
 
 Someone I know (certainly not me) is often tempted to disqualify himself. To preface his best attempts with a "hey, I'm not that great, so don't expect too much". It gives him some comfort, relieves the performance anxiety.
