@@ -11,7 +11,7 @@ And that's a big problem.
 
 ## Addiction
 
-I get addicted to video games. Like anyone with severe addiction, I can use to to point of self-destruction. 
+I get addicted to video games. Like anyone with severe addiction, I can use to the point of self-destruction. 
 
 No joke, I can play video games until my mind, body, career, and relationships suffer. I've been struggling with it ever since I was a little kid. 
 
