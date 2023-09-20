@@ -71,7 +71,7 @@ The fact that the game is so good makes this choice meaningful. How often do you
 
 It changes everything. What was going to be yet another round on the addiction rollercoaster will instead become a pivotal moment. Something that I'll be able to draw strength from, and look back on with pride.
 
-In future challenges I'll be able to tell myself "Remember Baldurs Gate 3? If you were capable of resisting that, of course you can handle this."
+In the future, when I'm tempted by addiction, I'll be able to tell myself "Remember Baldurs Gate 3? If you could resist that, you can certainly handle this."
 
 ## Enough talk
 
@@ -85,13 +85,18 @@ Not that I expect anyone to be policing me here - but just saying it for the rec
 
 ## What's the point?
 
-You might be thinking, what's the big deal? Why not just play a little? I wish I could just play them in moderation like most people, but because of my addiction that is much harder for me than simply abstaining. 
+You might be thinking, what's the big deal? Why not just play a little? 
+
+I wish I could just play them in moderation like most people, but because of my addiction that is much harder for me than simply abstaining. 
 
 So I guess the point is that I think I can do better things with my life if I don't play video games. It would be fun to play, much more fun than reading a book or meditating, or calling someone. But I know from experience that regardless of how much fun it is, it will never be worth the cost to my mental health, physical health, relationships, and career.
 
-So, I'm making a choice. 
+So, I'm making my choices: 
 
 No to video games. Yes to sleeping well, eating well, exercising. 
+
 No to investing in a fake world. Yes to investing in my career.
+
 No to digital escapism. Yes to accepting pain and discomfort.
-No to playing Baldurs Gate 3. Yes to playing this game of life.
+
+No to playing Baldurs Gate 3. Yes to getting better at playing this game of life.
