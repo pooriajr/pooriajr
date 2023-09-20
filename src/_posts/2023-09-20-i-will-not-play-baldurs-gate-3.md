@@ -17,7 +17,7 @@ No joke, I can play video games until my mind, body, career, and relationships s
 
 I've tried many times to stop. And I've had some pretty long abstinence streaks. But every attempt so far has ended with a relapse.
 
-So back to Baldurs Gate 3. The day I saw it, I was happily "sober". I hadn't played video games in a while, didn't even miss them. Things were going well, and I was feeling on top of life. But that game looked to good, I made a plan that, when it came out, I was going to play it.
+So back to Baldurs Gate 3. The day I saw it, I was happily "sober". I hadn't played video games in a while, didn't even miss them. Things were going well, and I was feeling on top of life. But that game looked so good, I made a plan that, when it came out, I was going to play it.
 
 ## It's special. It's different.
 
