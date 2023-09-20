@@ -25,7 +25,7 @@ Why would I decide to ruin a good thing, and go back to video games, knowing how
 
 Crazy as it sounds, it's because this specific game seems like something *special*. 
 
-I've never seen people get so excited about a game. Every reviewer is giving it perfect 10/10 scores. It might be the single best vido game I've ever had the opportunity to play. 
+I've never seen people get so excited about a game. Every reviewer is giving it perfect 10/10 scores. It might be the single best video game I've ever had the opportunity to play. 
 
 Plus, it's a ridiculously high effort output from an underdog team. I love that. It's like a big middle finger to all the big studios pumping out lazy cash-grab games. 
 
