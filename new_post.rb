@@ -14,7 +14,7 @@ else
   File.open(path, 'w') do |file|
     file.puts("---")
     file.puts("title: \"#{title}\"")
-    file.puts("date: #{Time.now}")
+    file.puts("date: #{date}")
     file.puts("---")
   end
 end
