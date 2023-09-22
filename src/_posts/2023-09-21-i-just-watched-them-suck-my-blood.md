@@ -85,7 +85,7 @@ A 4th mosquito showed up. It kept trying to find a good spot but couldn't. I got
 
 But after this they're going to take my blood and breed, and there's going to be even more mosquitoes in the backyard. I should just kill them all now while I still have a chance...
 
-"Shhh. Just stop. Stop trying to fix things, stop trying to change things. For once if your life just be ok with *everything*."
+"Shhh. Just stop. Stop trying to fix things, stop trying to change things. For once in your life just be ok with *everything*."
 
 And I just gave up trying to change anything about the situation.
 
