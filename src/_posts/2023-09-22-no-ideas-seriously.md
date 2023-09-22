@@ -19,9 +19,9 @@ Take a long hot shower. Everyone knows that where the best ideas come from.
 
 Take a long walk. No less than 30 minutes - a short walk won't cut it. 
 
-Read a non-fictionbook about a topic you find mentally stimulating. Guaranteed ideas.
+Read a non-fiction book about a topic you find mentally stimulating. Guaranteed ideas.
 
 Look over some of your own past writing. See if there's any ideas you can build on, or which you've changed your mind on. 
 
-That's all for today - keeping it short!  
+That's all for today - Keeping it short!  
 
