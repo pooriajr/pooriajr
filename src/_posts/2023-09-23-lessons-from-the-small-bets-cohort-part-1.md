@@ -9,17 +9,19 @@ In order to "lock in" my learnings from it, I'll write my takeaways on each of t
 
 ## The Role of Randomness
 
-Right out the gate, Daniel dropped a bomb on me. The world I thought I knew is actually split into 2 *very different* worlds: the predictable world, and the stochastic world (stochastic means random, unpredictable)
+Right out the gate, Daniel dropped a bomb on me.
+
+The world I thought I knew is actually split into 2 *very different* worlds: the predictable world, and the stochastic world (stochastic means random, unpredictable)
 
 Everything I've learned since childhood has equipped me with strategies for success in the predictable world.
 
-But if I try and use those same strategies into the stochastic world, I'll be ill-equipped. That world operates so differently that it demands a different approach.
+But if I try and use those same strategies in the stochastic world, I'll be ill-equipped. That world operates so differently that it demands a different approach.
 
 ## It all makes sense now
 
-It's a fascinating reframe which I had never considered, but which explains a lot. 
+The "predictable word vs. stochastic world" mental model fascinated me because it explains a lot.
 
-For years I've laughed at the absurdity of how I can reliably make 6 figures working as a full-time developer, but don't even know if I'll make 6 dollars on my side projects.
+For years I've laughed at how I can reliably make 6 figures working as a full-time developer, but don't even know if I'll make 6 dollars on a side project.
 
 I've taken it as a sign that building your own thing is just *that much harder*, and that I simply needed to improve my skills and keep trying.
 
