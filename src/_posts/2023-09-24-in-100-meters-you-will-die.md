@@ -61,6 +61,10 @@ And then after that, to go with an empty mind, no thoughts, no regrets, no distu
 
 ...
 
+...
+
+...
+
 10 meters.
 
 *But there was that one thing I always wanted to do but I never did...*
@@ -71,8 +75,6 @@ And then after that, to go with an empty mind, no thoughts, no regrets, no distu
 
 I shut my eyes for a few seconds, simulating my imaginary death. 
 
-"Can't believe you actually did all that. You're going to write about this in your blog, aren't you? People are going to think you're crazy or suicidal or something."
+"Can't believe you actually did all that, you're so weird. You're going to write about this in your blog, aren't you? People are going to think you're crazy."
 
-I don't know what you're talking about. 
-
-This was all your idea.
+That's ok, it was just a bit of fun.
