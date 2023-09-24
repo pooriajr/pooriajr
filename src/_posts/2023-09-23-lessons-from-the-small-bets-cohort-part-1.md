@@ -43,7 +43,9 @@ But generally, humanity has succeeded in *mellowing out* nature's rough edges so
 
 And that's what certain operators in the stochastic world have done. For example, book publishers, venture capitalists, and movie studios can operate with consistent success in the stochastic world. 
 
-Daniel showed a line chart of a major book publisher's yearly profits. Bearing in mind that book publishing is very unpredictable and random, you'd expect that chart to reflect. But it was as stable as any other business that operates successfully in the predictable world.
+Daniel showed a line chart of a major book publisher's yearly profits. Bearing in mind that book publishing is very unpredictable and random, you'd expect that chart to reflect the randomness of the industry. 
+
+But it was as stable as any other business that operates successfully in the predictable world.
 
 They'd managed to tame randomness, and if we use some of their strategies, maybe we can too.
 
