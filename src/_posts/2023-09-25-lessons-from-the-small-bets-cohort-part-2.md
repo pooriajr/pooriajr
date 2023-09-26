@@ -27,6 +27,8 @@ What about all those who persisted and focused just as much, maybe even more, bu
 • "Just execute your best idea."
 • "Just keep showing up."
 
+Just, just, just.
+
 Daniel presents this as advice that is good enough in the predictable world, but not enough in the stochastic world. 
 
 The problem is mostly in the *just*. There is no recipe for success in the stochastic world, so while these are good things to do, they aren't sufficient.
