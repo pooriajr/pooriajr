@@ -28,9 +28,10 @@ The ideal device would be as small and thin as possible, just big enough for a s
 ## How about a smartwatch?
 
 The size and capabilities are good, but a few dealbreakers:
-1) Still has notifications and all those distractions I want to avoid
-2) Overly complicated for what I need
-3) Terrible battery life
+
+1. Still has notifications and all those distractions I want to avoid
+2. Overly complicated for what I need
+3. Terrible battery life
 
 ## Maybe a basic little alarm clock from Amazon?
 
