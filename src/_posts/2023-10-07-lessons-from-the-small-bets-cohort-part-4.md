@@ -5,7 +5,7 @@ date: 2023-10-07
 
 Selection criteria are very important for us as individuals because unlike VCs, movie studios, book publishers, we can't scale our time the way they can scale their capital. We can't make 1000 bets. We only have time for a handful of bets at any one time.
 
-# Ergodicity
+## Ergodicity
 Daniel shows a thought experiment in which a million participants, all starting with $100, flip a coin over and over. If they flip heads, they increase their net worth by 60%, and if they flip tails, they reduce it by 40%.
 
 This seems like a favorable game, where the more you play, the more money you'll end up with.
