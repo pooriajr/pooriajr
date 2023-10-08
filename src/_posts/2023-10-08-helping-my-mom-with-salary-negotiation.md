@@ -7,7 +7,7 @@ Today I helped my mom prepare for salary negotiation.
 
 She is going to a job interview tomorrow, and like most people, she's uncomfortable with salary negotiation. So I went to the classic [patio11 blog post](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) and studied up.
 
-Then we role-played, with me pretending to be the interviewer.
+Then we practiced, with me pretending to be the interviewer.
 
 The mission is to follow rule #1: Don't be the first to give a number.
 
