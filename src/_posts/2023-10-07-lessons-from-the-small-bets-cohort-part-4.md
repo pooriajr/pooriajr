@@ -13,7 +13,9 @@ This seems like a favorable game, where the more you play, the more money you'll
 And looking at a line graph of the average wealth over time, it does appear that the players are getting wealthier.
 
 But surprisingly, the vast majority of players lose nearly all their money, and the average is pulled up by an outlier. 
-![[CleanShot 2023-10-07 at 19.33.32@2x.png]]
+
+![](/images/unergodic.png)
+
 This means the system is not "ergodic". An ergodic system is one in which the effects on the collective level are reflected on the individual level.
 
 As individuals, we care about what happens to us on an individual level. Even if things are getting better on a collective level, that's no comfort when we become ruined on an individual level.
