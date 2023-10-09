@@ -23,10 +23,10 @@ Putting in the hard work to make a custom app makes me feel like what I've creat
 
 If I imagine myself launching, for example, a paid Notion template, my inner critic pipes up:
 
-"Wow, _another_ notion template?"
-"Lazy and unoriginal."
-"You can code, you're better than this."
-"Anyone can do that."
+"Wow, _another_ notion template?"  
+"Lazy and unoriginal."  
+"You can code, you're better than this."  
+"Anyone can do that."  
 
 My ego hates that. It wants me to do something unique and impressive, so that no one can criticize me like that.
 
