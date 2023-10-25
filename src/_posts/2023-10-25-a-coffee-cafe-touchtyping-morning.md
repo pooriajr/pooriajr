@@ -15,13 +15,13 @@ But as I pick up steam, and the caffeine starts to hit, I start having eureka mo
 
 At this point it's common for my writing to contain grand phrases like "I can do anything". That pretty much sums up how I feel at the time, empowered and confident.
 
-Touch-typing makes it even better. I let my eyes just wander over my surrounding as my fingers put my thoughts onto the page. I observe the bustling of people in the cafe, or on the street outside, watching but not focusing on it.
+Touch-typing makes it even better. I let my eyes just wander over my surroundings as my fingers put my thoughts onto the page. I observe the bustling of people in the cafe, or on the street outside, watching but not focusing on it.
 
 Somehow letting my eyes wander lets my thoughts flow more freely. It's like distracting my eyes unblocks a part of my brain.
 
 It's the same thing that happens when I'm chatting during a casual game of ping pong or frisbee with someone. The body goes into a flow state, and so does the conversation. 
 
-It all starts happening on its down, you feel somewhat involved, but also like you're just going along with the ride.
+It all starts happening on its own, you feel somewhat involved, but also like you're just going along with the ride.
 
 And then at some point I snap out of it. Maybe that's just the caffeine wearing off. 
 
