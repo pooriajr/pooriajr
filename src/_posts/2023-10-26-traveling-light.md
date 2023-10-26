@@ -1,7 +1,7 @@
 ---
 title: Traveling light
 ---
-That's the topic for today. Traveling light isn't just about how much luggage you have, although that's a big part of it.
+Traveling light isn't just about how much luggage you have, although that's a big part of it.
 
 When I travel with a single backpack, I tend to be a lot more spontaneous. At any point I can toss everything on my back and change location.
 
