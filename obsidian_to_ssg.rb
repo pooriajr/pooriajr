@@ -20,7 +20,7 @@ obsidian_post_image_paths = obsidian_post_images.map do |image|
     "#{obsidian_path}/#{image}"
 end
 
-blog_images_path = '/Users/pooria/Projects/Kian Pak/kianpak/src/images/'
+blog_images_path = '/Users/pooria/Projects/Pooriajr/pooriajr/src/images/'
 blog_images_path_relative = '/images/'
 blog_image_paths = obsidian_post_images.map do |filename|
     "#{blog_images_path}#{filename}"
@@ -47,7 +47,7 @@ parsed = FrontMatterParser::Parser.parse_file(
 date = parsed.front_matter["date"] || Date.today
 
 blog_post_name = original_name.to_s.remove(/[^0-9|A-Z|a-z| ]/).parameterize + '.md'
-blog_post_path = "/Users/pooria/Projects/Kian Pak/kianpak/src/_posts/#{date}-#{blog_post_name}"
+blog_post_path = "/Users/pooria/Projects/Pooriajr/pooriajr/src/_posts/#{date}-#{blog_post_name}"
 
 File.write(blog_post_path, transformed_content)
 
